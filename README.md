@@ -40,4 +40,5 @@ This project presents an interactive Coffee Sales Dashboard built using Microsof
 
 ## Dashboard Preview
 
-<img width="1533" height="516" alt="Screenshot 2026-06-09 144119" src="https://github.com/user-attachments/assets/e4dcb7ac-ed8d-4bda-83cf-ecaf224f16d2" />
+<img width="1530" height="514" alt="image" src="https://github.com/user-attachments/assets/80ed3cbb-228a-4ae5-a83d-644b4d82ba86" />
+
